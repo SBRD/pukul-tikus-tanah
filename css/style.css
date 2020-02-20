@@ -1,4 +1,5 @@
-h1, h2 {
+h1,
+h2 {
   font-size: 60px;
   text-align: center;
   font-family: arial;
@@ -11,6 +12,7 @@ button {
 }
 
 .container {
+  border: 1pt;
   width: 600px;
   margin: auto;
   cursor: url(../img/palu1.png), auto;
